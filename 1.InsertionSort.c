@@ -1,3 +1,7 @@
+/**
+ * Implementing Insertion Sort Pseudo Code (CLRS Pg 18) 
+ **/
+
 #include <stdio.h>
 #define N 10 // array length
 int x[N]={3,2,6,2,1,3,123,5,2,75};
