@@ -1,3 +1,6 @@
+/**
+ * Implementing Square Matrix Multiply Pseudo Code (CLRS Pg 75) 
+ **/
 #include <stdio.h>
 
 #define N 3 // matrix size

@@ -1,3 +1,6 @@
+/**
+ * Implementing Square Matrix Multiply Recurrsive Pseudo Code (CLRS Pg 76-77) 
+ **/
 #include <stdio.h>
 #include <stdlib.h> // for malloc
 
