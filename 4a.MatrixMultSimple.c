@@ -7,7 +7,7 @@ int B[N][N]={-19,88,93,-43,32,-29,49,42,-3};
 void printMatrix(int M[N][N]);
 
 void main(){
-    int C[N][N];
+    int C[N][N]={0};
     for(int i=0;i<N;i++){
         for(int j=0;j<N;j++){
             for(int k=0;k<N;k++){
